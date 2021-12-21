@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agus39
 - 👀 I’m interested in Front end
-- 🌱 I’m currently learning PHP & CSS
+- 🌱 I’m currently learning JavaScript & CSS
 - 💞️ I’m looking to collaborate on Not yet 
 - 📫 How to reach me Dm Instagram @agusaputra39
 
